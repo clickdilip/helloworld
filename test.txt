@@ -1,4 +1,1 @@
-f1
-change2
-chabge
-dilip
+07-06 15:24:07.714: E/art(23863): 0xb7805f70 SpaceTypeMallocSpace begin=0x12c00000,end=0x12e01000,limit=0x22c00000,size=2MB,capacity=256MB,non_growth_limit_capacity=256MB,name="main rosalloc space"]
